@@ -1,9 +1,0 @@
-{
-  "name": "漢文暗記マスター",
-  "short_name": "漢文暗記",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f7f8f3",
-  "theme_color": "#147a45",
-  "lang": "ja"
-}
